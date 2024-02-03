@@ -1,0 +1,40 @@
+body{
+    background-image:url("OIP.jpg");
+    padding: 40px;
+    margin-left:20px ;
+background-repeat: no-repeat;
+background-position: center ;
+background-size: cover;
+padding: 70px;
+margin-left: 440px;
+}
+.a{
+    padding: 60px;
+    border-style:double;
+    width: 20px;
+    
+   border-radius:20px;
+   display:table-cell;
+   position: center;
+  border-width: 50%;
+   position: static;
+   justify-content: center;
+  
+  }
+ button{
+    border-radius: 10px;
+     grid-area:  20px;
+     color: blue;
+     cursor: pointer;
+     cursor:grabbing;
+
+ }
+@keyframes button{
+static{
+    color: aqua;
+}
+
+}
+
+
+} 
